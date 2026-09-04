@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp"
+    android:height="16dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/ig_badge_blue"
+        android:pathData="M12,2L9.19,4.63 5.42,4.82 4.43,8.47 1.67,11.08 3.19,14.53 2.59,18.27 6.22,19.34 8.09,22.61 11.75,21.57 14.86,23.75 16.94,20.61 20.69,20.08 21.05,16.32 23.95,13.88 22.62,10.36 23.85,6.76 20.27,5.88 18.57,2.52 14.93,3.41zM10.09,16.72l-3.8,-3.81 1.48,-1.48 2.32,2.33 5.85,-5.87 1.48,1.48z"/>
+</vector>

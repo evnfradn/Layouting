@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Layouting</string>
+    <string name="title_ig_local">IG.LOCAL</string>
+    <string name="user_sh_mb6">evnfradn</string>
+    <string name="student_name">Evan Fausta Pradana</string>
+
+    <string name="stat_post">9\npost</string>
+    <string name="stat_follower">67\nfollower</string>
+    <string name="stat_following">67\nfollowing</string>
+
+    <string name="bio_text">Bio: Mahasiswa TRPL \nNama: Evan Fausta Pradana\nPertemuan 3 PPPBD</string>
+
+    <string name="btn_edit_profile">Edit Profile</string>
+    <string name="btn_share_profile">Share profile</string>
+
+    <string name="label_foto">foto</string>
+</resources>

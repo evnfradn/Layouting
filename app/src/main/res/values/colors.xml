@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ig_background">#FAFAFA</color>
+    <color name="ig_surface">#FFFFFF</color>
+    <color name="ig_text_primary">#262626</color>
+    <color name="ig_text_secondary">#737373</color>
+    <color name="ig_link">#00376B</color>
+    <color name="ig_button_bg">#EFEFEF</color>
+    <color name="ig_button_stroke">#DBDBDB</color>
+    <color name="ig_divider">#E2E2E2</color>
+    <color name="ig_badge_blue">#0095F6</color>
+    
+
+    <color name="ig_story_start">#F58529</color>
+    <color name="ig_story_mid">#DD2A7B</color>
+    <color name="ig_story_end">#8134AF</color>
+    
+
+    <color name="photo_card_1">#E8F0FE</color>
+    <color name="photo_card_2">#FCE8E6</color>
+    <color name="photo_card_3">#E6F4EA</color>
+    <color name="photo_card_4">#FEF7E0</color>
+    <color name="photo_card_5">#F3E8FD</color>
+    <color name="photo_card_6">#E0F2F1</color>
+</resources>
